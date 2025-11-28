@@ -39,7 +39,7 @@ Presenting data in a clear and professional way
 
 📂 Files in This Repository
 
-Employee_Perf_Payroll_FULL_v2.xlsx – Main Excel project file
+Employee_Perf_Payroll – Main Excel project file
 
 dashboard.png – Screenshot of the dashboard
 
